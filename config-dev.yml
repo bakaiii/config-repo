@@ -2,4 +2,4 @@
 name: config-client-default
 version: 99999
 bbb:
-  ccc:sss
+  ccc: 333
