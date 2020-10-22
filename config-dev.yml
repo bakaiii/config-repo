@@ -1,5 +1,5 @@
 # 自定义配置
 name: config-client-default
-version: 99999
+version: 11
 bbb:
   ccc: 333
